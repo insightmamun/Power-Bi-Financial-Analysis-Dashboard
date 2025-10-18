@@ -50,29 +50,17 @@ This dashboard streamlines financial reporting and analysis, **improving managem
 ## Dashboard Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/885544de-6bfc-45ee-83a4-043db620fbb2" alt="Financial Dashboard - Balance Sheet View" width="90%" style="border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+  <img width="1367" height="738" alt="Image" src="https://github.com/user-attachments/assets/baacdd6d-8573-4c52-ba8f-36cce0895b9d" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a9eefcb7-01c5-4454-b954-a831fc526e05" alt="Financial Dashboard - Cash Flow Analysis" width="90%" style="border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+  <img width="1302" height="732" alt="Image" src="https://github.com/user-attachments/assets/303bc647-b64a-444c-9923-de6ee0956bf5" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/14303108-4ead-4f78-a939-a4068bce0ce0" alt="Financial Dashboard - Profitability Overview" width="90%" style="border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+  <img width="1297" height="726" alt="Image" src="https://github.com/user-attachments/assets/f7b0d832-8aef-4f02-ac2d-9f95e9d41075" />
 </p>
-
 
 <p align="center">
   <em>Interactive Power BI Dashboard showcasing multi-year financial performance — including Profitability, Balance Sheet, and Cash Flow insights.</em>
 </p>
-
-
-
-
-
-
-
-
-
-
-
